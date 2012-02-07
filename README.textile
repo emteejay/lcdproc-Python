@@ -5,6 +5,8 @@ h3. Installing
 bc. sudo apt-get install python-setuptools
 sudo easy_install lcdproc
 
+*Warning* Until the python egg is updated you will need to install the files manually if you want the latest updates.
+
 h3. Example Usage
 
 See *examples.py*
